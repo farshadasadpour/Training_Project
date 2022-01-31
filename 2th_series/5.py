@@ -13,5 +13,6 @@ for i,j in zip(char_list_1,char_list_2):
     else:
         D+=1
         
+print(char_list_1,"\n",char_list_2)
 print(f"diffrent is {D} and the same is {S}")
     
