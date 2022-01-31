@@ -3,5 +3,3 @@ def def_2():
     for i in range(1,len(num_list)):
         num_list[i]=num_list[i]*num_list[i-1]
     return num_list
-
-print(def_2())
